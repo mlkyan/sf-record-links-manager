@@ -1,0 +1,11 @@
+{
+  "orgName": "YOUR_MODULE_NAME",
+  "edition": "Developer",
+  "language": "en_US",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
